@@ -1,5 +1,5 @@
-# FDS golang webapi
-this small project should be a prototype for the FDS webservice written in golang
+# golang movies webapi
+this small project is my follow allong with the book Let's go further from Alex Edwards
 
 ## Setup
 Make sure you have go 1.16 installed with
