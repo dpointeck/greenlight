@@ -1,4 +1,4 @@
-module fds-web.frauscher.com
+module greenlight.dpointeck.dev
 
 go 1.16
 
